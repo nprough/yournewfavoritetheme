@@ -1,9 +1,9 @@
 {
-    "name": "nickprough.kracken",
-    "title": "Project Leviathan-Dark",
-    "description": "This theme combines shades of blues to make your code easier to see.",
-    "homepage": "https://github.com/nprough/projectleviathan",
-    "version": "1.1.0",
+    "name": "nickprough.yournewfavoritetheme",
+    "title": "Your New Favorite Theme",
+    "description": "",
+    "homepage": "https://github.com/nprough/yournewfavoritetheme",
+    "version": "1.0.0",
     "author": "Nicholas R. Prough <nick.prough@outlook.com>",
     "license": "MIT",
     "theme": {
@@ -11,5 +11,5 @@
         "dark": true,
         "addModeClass": true
     },
-    "keywords": ["dark", "blue", "purple", "minimal"]
+    "keywords": ["dark", "terminal", "contrast", "coral", "green", "orange"]
 }
