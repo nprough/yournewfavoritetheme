@@ -1,9 +1,9 @@
 {
     "name": "nickprough.yournewfavoritetheme",
     "title": "Your New Favorite Theme",
-    "description": "",
+    "description": "This IS your new favorite theme.",
     "homepage": "https://github.com/nprough/yournewfavoritetheme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Nicholas R. Prough <nick.prough@outlook.com>",
     "license": "MIT",
     "theme": {
